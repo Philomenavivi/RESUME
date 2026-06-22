@@ -57,10 +57,10 @@ export default function Component() {
   ];
 
   return (
-    <main className="min-h-screen bg-gray-400 flex items-center justify-center py-10 px-4">
+    <main className="min-h-screen  mx-auto bg-gray-400 flex items-center justify-center py-10 px-4">
       
       
-      <div className="w-full max-w-6xl bg-gray-300 shadow-xl flex flex-col md:flex-row">
+      <div className="w-full max-w-6xl  mx-auto bg-gray-300 shadow-xl flex flex-col md:flex-row">
 
   
         <aside className="w-full md:w-2/5 p-4 shadow-lg bg-gray-600">

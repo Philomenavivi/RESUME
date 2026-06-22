@@ -30,7 +30,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col-10 gap-3">
-        <div className="col-span-4 justify-between">
+        <div className="col-span-4 mx-auto max-w-6xl">
           <Component />
         </div>
         
